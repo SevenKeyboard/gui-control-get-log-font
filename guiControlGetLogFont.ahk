@@ -1,4 +1,4 @@
-﻿#Requires AutoHotkey v1.1.0+
+﻿#Requires AutoHotkey v1.1.35+
 ;==============================================================
 ; guiControlGetLogFont — Retrieve LOGFONT structure for a GUI or control
 ;
